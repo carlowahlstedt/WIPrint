@@ -119,11 +119,9 @@
         "name": "Work Item Print",
         "order": 9999,
         "uri": "static/wiprint-admin.html",
-        "iconAsset": "mrtarantula.wiprint/static/img/print16.png",
-        "_sharedData": {
-          "assets": [
-            "mrtarantula.wiprint/static/img/print16.png"
-          ]
+        "icon": {
+          "light": "mrtarantula.wiprint/static/img/print16.png",
+          "dark": "mrtarantula.wiprint/static/img/print16-dark.png"
         }
       }
     }
